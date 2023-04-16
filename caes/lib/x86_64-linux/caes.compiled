@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1680204690"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/opt/lampp/cgi-bin/caes/lib/x86_64-linux -Fu/home/fabricio/.lazarus/lib/weblaz/lib/x86_64-linux -Fu/home/fabricio/.lazarus/lib/SQLDBLaz/lib/x86_64-linux/gtk2 -Fu/home/fabricio/.lazarus/lib/IDEIntf/units/x86_64-linux/gtk2 -Fu/home/fabricio/.lazarus/lib/SynEdit/units/x86_64-linux/gtk2 -Fu/home/fabricio/.lazarus/lib/LazControls/lib/x86_64-linux/gtk2 -Fu/home/fabricio/.lazarus/lib/units/x86_64-linux/gtk2 -Fu/home/fabricio/.lazarus/lib/LCLBase/units/x86_64-linux -Fu/home/fabricio/.lazarus/lib/freetypelaz/lib/x86_64-linux -Fu/usr/lib/lazarus/2.2.4/components/codetools/units/x86_64-linux -Fu/home/fabricio/.lazarus/lib/BuildIntf/units/x86_64-linux -Fu/usr/lib/lazarus/2.2.4/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/2.2.4/packager/units/x86_64-linux -Fu/opt/lampp/cgi-bin/caes/ -FU/opt/lampp/cgi-bin/caes/lib/x86_64-linux/ -FE/opt/lampp/cgi-bin/caes/ -o/opt/lampp/cgi-bin/caes/caes.cgi -dLCL -dLCLgtk2 caes.lpr"/>
+</CONFIG>
